@@ -1,0 +1,30 @@
+Our program around functions i.e blocks of statements that manipulate data
+this is called the procedure-oriented probgram
+
+->there is another way of organizing  your program which is  to combine data and functionality and wrap it inside something
+called an object this called object oriented program
+
+
+oop's concept:
+->class
+->objects
+->polymorphism
+->encapsulation
+->inheritance
+->data abstraction
+
+class
+->class is collection of objects
+->A class is a blueprint for how something should be defined
+->classes define the function called methods which identify
+the behaviors that an object created from the class can perform
+with its data
+
+objects-> objecs are anyithing that has properties and some behaviors
+properties of objects ->variables
+behavior -> functions of the objects
+
+->the properties that all objects objects have are defined in 
+method call __init__()
+__init__ sets the initial state of the objects
+
